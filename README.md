@@ -1,1 +1,1 @@
-This is my first frontend project of Task2
+This is my first frontend project
